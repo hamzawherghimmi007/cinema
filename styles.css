@@ -36,7 +36,7 @@ body {
 #firstback{
     background-image: url(wp5483697.jpg);
     background-size: cover;
-    background-position: center;
+    background-position: fix;
     background-position-y: bottom;
     
 }
