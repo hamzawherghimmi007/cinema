@@ -38,6 +38,7 @@ body {
     background-size: cover;
     background-position: center;
     background-position-y: bottom;
+    background-attachment: fixed;
 }
 #cover1{
     background-color: rgb(12, 12, 12, 0.9);
