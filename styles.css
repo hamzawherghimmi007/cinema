@@ -34,9 +34,7 @@ body {
     
 }
 #firstback{
-    background-image: url(wp5483697.jpg);
-    background-size: cover;
-    background-position: fix;
+    background-color: white;
 }
 #cover1{
     background-color: rgb(12, 12, 12, 0.9);
